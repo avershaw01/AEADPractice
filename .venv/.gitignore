@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.env*/
+
+# Distribution
+build/
+dist/
+*.egg-info/
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+# Crypto material
+*.key
+*.pem
+*.der
+*.crt
+*.p12
+*.secret
+*.nonce
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache/
+
+# OS junk
+.DS_Store
+Thumbs.db
